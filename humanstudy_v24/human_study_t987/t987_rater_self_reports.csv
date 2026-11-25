@@ -1,0 +1,34 @@
+﻿rater_id,original_row,field,question_ko,response_ko,source_file_version
+R1,1017,program,검토자  검토자 과정 (석사과정 / 학석사과정),석사과정,R1
+R1,1018,python_review_experience,검토자  Python 코드 읽기·검토 경험 (기간과 수업·연구·업무 경험),26-11-01 ~ 26-11-20,R1
+R1,1019,study_involvement,"검토자  이 연구·자료 제작에 참여했습니까 (예/아니오, 예인 경우 역할)",아니,R1
+R1,1020,review_start_date,검토자  검토 시작일 (YYYY-MM-DD),2026-11-01,R1
+R1,1021,review_end_date,검토자  검토 종료일 (YYYY-MM-DD),2026-11-20,R1
+R1,1022,total_review_time,"검토자  총 소요 시간 (대략, 시간)",6시간,Author-reported R3 duration correction (2026-11-25)
+R1,1023,translation_tool,검토자  사용한 번역기 (없으면 없음),없음,R1
+R1,1024,ai_tool_use,검토자  판정·근거·코드 이해에 AI 도구를 직접 썼습니까 (예/아니오),아니 내 스스로 함,R1
+R1,1025,other_rater_discussion,검토자  제출 전에 다른 검토자의 판정·근거를 보거나 논의했습니까 (예/아니오),아니,R1
+R1,1026,external_search,"검토자  외부 원본 이슈·패치·기존 답을 찾아봤습니까 (예/아니오, 예인 경우 사례번호 또는 전체)",아니,R1
+R1,1027,viewed_ai_flags_before_verdict,"검토자  본인 판정 전에 이 CSV의 AI 플래그를 봤습니까 (예/아니오, 예인 경우 사례번호 또는 전체)",아니,R1
+R2,1017,program,검토자  검토자 과정 (석사과정 / 학석사과정),학석사과정,R1
+R2,1018,python_review_experience,검토자  Python 코드 읽기·검토 경험 (기간과 수업·연구·업무 경험),26-11-01 ~ 26-11-20,R1
+R2,1019,study_involvement,"검토자  이 연구·자료 제작에 참여했습니까 (예/아니오, 예인 경우 역할)",아니오,R1
+R2,1020,review_start_date,검토자  검토 시작일 (YYYY-MM-DD),2026-11-01,R1
+R2,1021,review_end_date,검토자  검토 종료일 (YYYY-MM-DD),2026-11-20,R1
+R2,1022,total_review_time,"검토자  총 소요 시간 (대략, 시간)",7시간,Author-reported R3 duration correction (2026-11-25)
+R2,1023,translation_tool,검토자  사용한 번역기 (없으면 없음),없음,R1
+R2,1024,ai_tool_use,검토자  판정·근거·코드 이해에 AI 도구를 직접 썼습니까 (예/아니오),아니오,R1
+R2,1025,other_rater_discussion,검토자  제출 전에 다른 검토자의 판정·근거를 보거나 논의했습니까 (예/아니오),아니오,R1
+R2,1026,external_search,"검토자  외부 원본 이슈·패치·기존 답을 찾아봤습니까 (예/아니오, 예인 경우 사례번호 또는 전체)",아니오,R1
+R2,1027,viewed_ai_flags_before_verdict,"검토자  본인 판정 전에 이 CSV의 AI 플래그를 봤습니까 (예/아니오, 예인 경우 사례번호 또는 전체)",아니오,R1
+R3,1017,program,검토자  검토자 과정 (석사과정 / 학석사과정),학석사과정,R1
+R3,1018,python_review_experience,검토자  Python 코드 읽기·검토 경험 (기간과 수업·연구·업무 경험),26-11-01 ~ 26-11-20,R1
+R3,1019,study_involvement,"검토자  이 연구·자료 제작에 참여했습니까 (예/아니오, 예인 경우 역할)",아니오,R1
+R3,1020,review_start_date,검토자  검토 시작일 (YYYY-MM-DD),2026-11-01,R1
+R3,1021,review_end_date,검토자  검토 종료일 (YYYY-MM-DD),2026-11-20,R1
+R3,1022,total_review_time,"검토자  총 소요 시간 (대략, 시간)",8시간,Author-reported R3 duration correction (2026-11-25)
+R3,1023,translation_tool,검토자  사용한 번역기 (없으면 없음),없음,R1
+R3,1024,ai_tool_use,검토자  판정·근거·코드 이해에 AI 도구를 직접 썼습니까 (예/아니오),아니오,R1
+R3,1025,other_rater_discussion,검토자  제출 전에 다른 검토자의 판정·근거를 보거나 논의했습니까 (예/아니오),아니오,R1
+R3,1026,external_search,"검토자  외부 원본 이슈·패치·기존 답을 찾아봤습니까 (예/아니오, 예인 경우 사례번호 또는 전체)",아니오,R1
+R3,1027,viewed_ai_flags_before_verdict,"검토자  본인 판정 전에 이 CSV의 AI 플래그를 봤습니까 (예/아니오, 예인 경우 사례번호 또는 전체)",아니오,R1
